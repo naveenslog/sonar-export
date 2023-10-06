@@ -63,7 +63,7 @@ To run the scraper:
     
         python main.py
     
-2.  Upon successful execution, an Excel file named after your project (e.g., `hdb-backend-lo.xlsx`) will be created in the current directory, containing the scraped data.
+2.  Upon successful execution, an Excel file named after your project (e.g., `data.xlsx`) will be created in the current directory, containing the scraped data.
 
 Features
 --------
